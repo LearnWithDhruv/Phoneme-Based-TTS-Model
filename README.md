@@ -80,6 +80,3 @@ data/
 
 ---
 
-## 👤 Author
-
-Developed for phoneme-based TTS research using Desivocal data.
